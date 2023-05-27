@@ -22,6 +22,7 @@ through relay.IR Sensor is used for motion detection Sensor i.e. whenever a pers
 Restricted Areas, whenever decreases below the threshold value of 25,the module sends a 
 mobile notification from Blynk , displays the current temperature reading value on the 
 Dashboard ,turns ON Buzzer and Common LED. 
+
 In Power Line Communication the purpose of implementation is to transfer the data 
 from one industry to another industry through the existing power lines where both are present 
 near to each other. In this we have considered Light Sensor as a parameter to transfer the data 
