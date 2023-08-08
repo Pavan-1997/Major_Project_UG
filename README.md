@@ -1,4 +1,4 @@
-Major Project done in my Under Graduation:
+# Major Project done in my Under Graduation:
 
 In this project, we proposed a system where you can easily monitor and control the 
 different parameters using sensors. In this we used a Raspberry Pi and Arduino Nano. Blynk is 
